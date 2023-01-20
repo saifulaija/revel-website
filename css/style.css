@@ -1,0 +1,26 @@
+
+.r__text__primary{
+    color:#0c2e8a;
+}
+
+.r__text__secondary{
+
+    color: #50d8af;
+}
+
+.banner__img__one{
+    background-image: url("../image/carousel/3.jpg");
+    height: 100vh;
+}
+.banner__img__two{
+    background-image: url("../image/carousel/4.jpg");
+    height: 100vh;
+}
+.banner__img__three{
+    background-image: url("../image/carousel/5.jpg");
+    height: 100vh;
+}
+
+.client__image{
+    width: 150px;
+}
